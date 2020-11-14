@@ -7,22 +7,21 @@
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Desafio02-GoStack-ConceitosNodeJS?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/">
+    <img alt="Made by Anderson" src="https://img.shields.io/badge/made%20by-Anderson-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafios?style=social">
+  <a href="https://github.com/Desafio02-GoStack-ConceitosNodeJS/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Desafio02-GoStack-ConceitosNodeJS?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -98,22 +97,10 @@ Para esse desafio temos os seguintes testes:
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
 
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-## Solução do desafio
-
-Caso você queira ver como resolver o desafio, fizemos um video explicando o passo a passo para cumprir com todos os requisitos da aplicação:
-
-<a href="https://youtu.be/lziAk0J_Ppc?t=37" target="_blank" align="center">
-  <img src="./assets/challenge-02-thumb.png">
-</a>
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
 ---
 
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Anderson :wave: [Entre no meu Linkedin!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
